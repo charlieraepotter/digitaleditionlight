@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title type="main">The adventure of the Norwood builder</title><author>Arthur Conan Doyle</author></titleStmt>
+         <seriesStmt><title>DH Summerschool - Antwerp 2024</title></seriesStmt>
+         <sourceDesc>
+            <bibl><title type="main">The adventure of the Norwood builder</title><author>Arthur Conan Doyle</author><respStmt><resp>Writer</resp><name>Arthur Conan Doyle</name></respStmt><idno type="Transkribus">2892283</idno><note>Henry W. and Albert A. Berg Collection of English and American Literature, The New York Public Library. (1881 - 1910). Return of Sherlock Holmes, The: No. 2. The adventure of the Norwood builder. Holograph Retrieved from https://digitalcollections.nypl.org/items/95a54c30-732a-0136-b6bf-4dfacf2ed6b1</note></bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">English</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="5223" lry="7115" xml:id="facs_56">
+         <graphic url="0056_056_26v.jpeg" width="5223px" height="7115px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=VREKYOWZVZUBSBQGXYUIUUWL&amp;fileType=view" width="5223px" height="7115px"/>
+         <zone points="107,311 4972,311 4972,6711 107,6711" rendition="TextRegion" xml:id="facs_56_tr_1">
+            <zone points="4521,202 4735,202 4735,535 4521,535" rendition="Line" xml:id="facs_56_tr_1_tl_1"/>
+            <zone points="71,946 4717,946 4717,1446 71,1446" rendition="Line" xml:id="facs_56_tr_1_tl_2"/>
+            <zone points="89,1374 2855,1374 2855,1725 89,1725" rendition="Line" xml:id="facs_56_tr_1_tl_3"/>
+            <zone points="101,2183 4432,2183 4432,2659 101,2659" rendition="Line" xml:id="facs_56_tr_1_tl_7"/>
+            <zone points="779,1892 4652,1892 4652,2320 779,2320" rendition="Line" xml:id="facs_56_tr_1_tl_5"/>
+            <zone points="565,1975 750,1975 750,2261 565,2261" rendition="Line" xml:id="facs_56_tr_1_tl_6"/>
+            <zone points="571,1606 3379,1606 3379,2017 571,2017" rendition="Line" xml:id="facs_56_tr_1_tl_4"/>
+            <zone points="149,2522 4503,2522 4503,2951 149,2951" rendition="Line" xml:id="facs_56_tr_1_tl_8"/>
+            <zone points="155,2772 4777,2772 4777,3200 155,3200" rendition="Line" xml:id="facs_56_tr_1_tl_9"/>
+            <zone points="149,3111 4836,3111 4836,3504 149,3504" rendition="Line" xml:id="facs_56_tr_1_tl_10"/>
+            <zone points="161,3385 4700,3385 4700,3843 161,3843" rendition="Line" xml:id="facs_56_tr_1_tl_11"/>
+            <zone points="101,3682 4658,3682 4658,4087 101,4087" rendition="Line" xml:id="facs_56_tr_1_tl_12"/>
+            <zone points="208,4015 4182,4015 4182,4390 208,4390" rendition="Line" xml:id="facs_56_tr_1_tl_13"/>
+            <zone points="184,4259 4836,4259 4836,4729 184,4729" rendition="Line" xml:id="facs_56_tr_1_tl_14"/>
+            <zone points="238,4545 4682,4545 4682,5009 238,5009" rendition="Line" xml:id="facs_56_tr_1_tl_15"/>
+            <zone points="214,4908 4117,4908 4117,5265 214,5265" rendition="Line" xml:id="facs_56_tr_1_tl_16"/>
+            <zone points="1059,5193 4688,5193 4688,5544 1059,5544" rendition="Line" xml:id="facs_56_tr_1_tl_17"/>
+            <zone points="167,5467 3569,5467 3569,5871 167,5871" rendition="Line" xml:id="facs_56_tr_1_tl_18"/>
+            <zone points="1059,5758 4961,5758 4961,6175 1059,6175" rendition="Line" xml:id="facs_56_tr_1_tl_19"/>
+            <zone points="173,6068 4961,6068 4961,6514 173,6514" rendition="Line" xml:id="facs_56_tr_1_tl_20"/>
+            <zone points="178,6389 4646,6389 4646,6811 178,6811" rendition="Line" xml:id="facs_56_tr_1_tl_21"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_56" n="56" xml:id="img_0056"/>
+            <ab facs="#facs_56_tr_1" type="">
+               <l facs="#facs_56_tr_1_tl_1" n="N001"><metamark function="pagenumber"><num>25</num></metamark></l>
+               <l facs="#facs_56_tr_1_tl_2" n="N002">cunning ape than a human being" said she 'and he always</l>
+               <l facs="#facs_56_tr_1_tl_3" n="N003">was ever since he was a young man'</l>
+               <l facs="#facs_56_tr_1_tl_4" n="N004" rend="indent">'You knew him at that time' said I</l>
+               <l facs="#facs_56_tr_1_tl_5" n="N005" rend="indent">'Yes. I knew him well -- in fact he was an old suitor</l>
+               <l facs="#facs_56_tr_1_tl_6" n="N006">of mine. Thank God that I had the sense to turn away</l>
+               <l facs="#facs_56_tr_1_tl_7" n="N007">from him and to marry a better if a poorer man. I was</l>
+               <l facs="#facs_56_tr_1_tl_8" n="N008">engaged to him, Mr Holmes, when I heard a shocking story of</l>
+               <l facs="#facs_56_tr_1_tl_9" n="N009">how he had turned a cat loose in an aviary, and I was so</l>
+               <l facs="#facs_56_tr_1_tl_10" n="N010">horrified at his brutal cruelty that I would have nothing</l>
+               <l facs="#facs_56_tr_1_tl_11" n="N011">more to do with him." She rummaged in a bureau, and</l>
+               <l facs="#facs_56_tr_1_tl_12" n="N012">presently she produced a photograph of a woman,</l>
+               <l facs="#facs_56_tr_1_tl_13" n="N013">shamefully defaced and mutilated with a knife "That is</l>
+               <l facs="#facs_56_tr_1_tl_14" n="N014">my own photograph" she said "He sent it to me in that</l>
+               <l facs="#facs_56_tr_1_tl_15" n="N015">state with his curse upon my wedding morning"</l>
+               <l facs="#facs_56_tr_1_tl_16" n="N016" rend="indent">'Well' said I 'at least he has forgiven you now,</l>
+               <l facs="#facs_56_tr_1_tl_17" n="N017">since he has left all his property to your son'</l>
+               <l facs="#facs_56_tr_1_tl_18" n="N018" rend="indent">'Neither my son nor I want anything from Jonas</l>
+               <l facs="#facs_56_tr_1_tl_19" n="N019">Oldacre, dead or alive' she cried, with a proper spirit. 'There is</l>
+               <l facs="#facs_56_tr_1_tl_20" n="N020">a God in heaven, Mr. Holmes, and that same God who has</l>
+            </ab></div>
+      </body>
+   </text>
+</TEI>
